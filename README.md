@@ -1,24 +1,11 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Instructions
 
-Things you may want to cover:
+* Clone the repository: git clone https://github.com/MiceBishop/employees_management.git
 
-* Ruby version
+* Run: bundle install (Considering you have Ruby On Rails working on your computer)
 
-* System dependencies
+* Run: rails s
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Enjoy
