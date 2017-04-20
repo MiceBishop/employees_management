@@ -1,6 +1,6 @@
 # README
 
-##Instructions
+## Instructions
 
 * Clone the repository:
 
