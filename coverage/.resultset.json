@@ -1,0 +1,191 @@
+{
+  "MiniTest": {
+    "coverage": {
+      "/Users/seynou/Projects/employees_management/config/environment.rb": [
+        null,
+        1,
+        null,
+        null,
+        1
+      ],
+      "/Users/seynou/Projects/employees_management/config/environments/test.rb": [
+        1,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        1,
+        null,
+        null,
+        null,
+        null,
+        1,
+        null,
+        null,
+        1,
+        1,
+        null,
+        null,
+        null,
+        null,
+        1,
+        1,
+        null,
+        null,
+        1,
+        null,
+        null,
+        1,
+        1,
+        null,
+        null,
+        null,
+        null,
+        1,
+        null,
+        null,
+        1,
+        null,
+        null,
+        null,
+        null
+      ],
+      "/Users/seynou/Projects/employees_management/config/initializers/application_controller_renderer.rb": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "/Users/seynou/Projects/employees_management/config/initializers/assets.rb": [
+        null,
+        null,
+        null,
+        1,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "/Users/seynou/Projects/employees_management/config/initializers/backtrace_silencers.rb": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "/Users/seynou/Projects/employees_management/config/initializers/cookies_serializer.rb": [
+        null,
+        null,
+        null,
+        null,
+        1
+      ],
+      "/Users/seynou/Projects/employees_management/config/initializers/filter_parameter_logging.rb": [
+        null,
+        null,
+        null,
+        1
+      ],
+      "/Users/seynou/Projects/employees_management/config/initializers/inflections.rb": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "/Users/seynou/Projects/employees_management/config/initializers/mime_types.rb": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "/Users/seynou/Projects/employees_management/config/initializers/new_framework_defaults.rb": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        1,
+        null,
+        null,
+        1,
+        null,
+        null,
+        null,
+        1,
+        null,
+        null,
+        1,
+        null,
+        null,
+        1,
+        null,
+        null,
+        1
+      ],
+      "/Users/seynou/Projects/employees_management/config/initializers/react_server_rendering.rb": [
+        null,
+        1
+      ],
+      "/Users/seynou/Projects/employees_management/config/initializers/session_store.rb": [
+        null,
+        null,
+        1
+      ],
+      "/Users/seynou/Projects/employees_management/config/initializers/wrap_parameters.rb": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        1,
+        2,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "/Users/seynou/Projects/employees_management/config/routes.rb": [
+        1,
+        1,
+        null,
+        null
+      ],
+      "/Users/seynou/Projects/employees_management/test/models/employee_test.rb": [
+        1,
+        null,
+        1,
+        null,
+        null,
+        null,
+        null
+      ]
+    },
+    "timestamp": 1492878377
+  }
+}
