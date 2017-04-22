@@ -58,3 +58,4 @@ gem 'semantic-ui-sass', git: 'https://github.com/doabit/semantic-ui-sass.git'
 gem 'react-rails-hot-loader', '0.7.0'
 gem 'pg', '~> 0.18.4'
 gem 'coveralls', require: false
+gem 'rack', '2.0.1'
