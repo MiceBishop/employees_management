@@ -59,4 +59,3 @@ gem 'react-rails-hot-loader', '0.7.0'
 gem 'pg', '~> 0.18.4'
 gem 'coveralls', require: false
 gem 'rack', '2.0.1'
-ruby '2.4.1'
